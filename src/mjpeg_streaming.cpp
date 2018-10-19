@@ -140,9 +140,9 @@ public:
                 FD_SET(client, &masterfds); // insert client fd to masterfds
 
                 // send http header
-                _write(client, "HTTP/1.0 200 OK\r\n", 0);
+                _write(client, "HTTP/2.0 200 OK\r\n", 0);
                 _write(client,
-                "Server: Mozarella/2.2\r\n"
+                "Server: C++\r\n"
                 "Accept-Range: bytes\r\n"
                 "Connection: close\r\n"
                 "Max-Age: 0\r\n"
@@ -164,6 +164,7 @@ public:
 
                 int n = _write(s, (char*)(&outbuf[0]), outlen);
 
+                // std::cerr << " MJPEG-stream sent to ";
                 std::cerr << "known client " << s << " " << n << std::endl;
 
                 if (n < 0) // client close or crash
@@ -216,5 +217,4 @@ void send_mjpeg(image im, int port, int timeout, int quality) {
     cv::resize(image_to_mat(im), mat, cv::Size(1352, 1013));
 
     mjpeg_writer.write(mat);
-    std::cout << " MJPEG-stream sent. \n";
 }
