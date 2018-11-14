@@ -1,2 +1,4 @@
 yolov3.weights
 yolov3-tiny.weights
+nctu_delta_200.weights
+test.MTS

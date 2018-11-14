@@ -241,8 +241,8 @@ void demo(char *cfgfile, char *weightfile, float thresh, int cam_index, const ch
         if(!prefix){
             fps = 1./(what_time_is_it_now() - demo_time);
             demo_time = what_time_is_it_now();
-            // display_in_thread(0);
-            send_mjpeg(buff[(buff_index + 1)%3], 8090, 200, 95);
+            display_in_thread(0);
+            //send_mjpeg(buff[(buff_index + 1)%3], 8090, 200, 95);
         }else{
             char name[256];
             sprintf(name, "%s_%08d", prefix, count);

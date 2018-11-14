@@ -1,0 +1,7 @@
+classes= 80
+train  = /home/hscc/darknet_v2/data/nctu_delta/Train.txt
+valid  = /home/hscc/darknet_v2/data/nctu_delta/Train.txt
+names = data/coco.names
+backup = backup 
+
+
