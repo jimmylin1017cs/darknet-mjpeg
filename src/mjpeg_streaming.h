@@ -22,4 +22,14 @@
 
 #include "darknet.h"
 
-extern "C" void send_mjpeg(image ipl, int port, int timeout, int quality);
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+void send_mjpeg(image ipl, int port, int timeout, int quality);
+
+
+#ifdef __cplusplus
+}
+#endif

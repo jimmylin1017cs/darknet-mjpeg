@@ -2,6 +2,14 @@
 #define BOX_H
 #include "darknet.h"
 
+// ##### jimmy add for json person box
+typedef struct{
+    int id;
+    int x1, y1, x2, y2;
+    float prob;
+} person_sort_det;
+// ##### jimmy end
+
 typedef struct{
     float dx, dy, dw, dh;
 } dbox;

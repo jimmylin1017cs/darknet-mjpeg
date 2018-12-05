@@ -1,0 +1,3652 @@
+make: Nothing to be done for 'all'.
+Demo
+video file: test.MTS
+[2J[1;1H
+FPS:16644.1
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:2.0
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:4.1
+Objects:
+
+person: 32%
+count 1
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 1
+[2J[1;1H
+FPS:40.1
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:42.6
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.0
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:43.8
+Objects:
+
+person: 34%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 1
+[2J[1;1H
+FPS:43.0
+Objects:
+
+person: 34%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 1
+[2J[1;1H
+FPS:42.4
+Objects:
+
+person: 39%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 1
+[2J[1;1H
+FPS:44.2
+Objects:
+
+person: 39%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 1
+[2J[1;1H
+FPS:41.4
+Objects:
+
+person: 41%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 1
+[2J[1;1H
+FPS:43.1
+Objects:
+
+person: 37%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 1
+[2J[1;1H
+FPS:35.1
+Objects:
+
+person: 34%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 1
+[2J[1;1H
+FPS:39.5
+Objects:
+
+person: 34%
+count 2
+pTrackerRetSize: 0
+person_sort_dets.size(): 1
+person: -1
+[2J[1;1H
+FPS:42.1
+Objects:
+
+person: 35%
+pTrackerRetSize: 0
+person_sort_dets.size(): 1
+person: -1
+[2J[1;1H
+FPS:41.0
+Objects:
+
+person: 45%
+pTrackerRetSize: 0
+person_sort_dets.size(): 1
+person: -1
+[2J[1;1H
+FPS:42.2
+Objects:
+
+person: 46%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 2
+[2J[1;1H
+FPS:42.9
+Objects:
+
+person: 50%
+person: 31%
+count 3
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 2
+person: -1
+[2J[1;1H
+FPS:39.3
+Objects:
+
+person: 46%
+person: 31%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 2
+person: -1
+[2J[1;1H
+FPS:41.0
+Objects:
+
+person: 46%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 2
+[2J[1;1H
+FPS:40.8
+Objects:
+
+person: 43%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 2
+[2J[1;1H
+FPS:39.4
+Objects:
+
+person: 45%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 2
+[2J[1;1H
+FPS:38.1
+Objects:
+
+person: 40%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 2
+[2J[1;1H
+FPS:41.5
+Objects:
+
+person: 36%
+person: 31%
+count 4
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 2
+person: -1
+[2J[1;1H
+FPS:40.5
+Objects:
+
+person: 32%
+person: 32%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 2
+person: -1
+[2J[1;1H
+FPS:43.5
+Objects:
+
+person: 36%
+person: 30%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 2
+person: -1
+[2J[1;1H
+FPS:42.7
+Objects:
+
+person: 34%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 4
+[2J[1;1H
+FPS:40.3
+Objects:
+
+person: 31%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 4
+[2J[1;1H
+FPS:41.6
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.8
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.5
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:42.4
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.3
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:39.4
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:43.1
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.8
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:42.1
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:43.5
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.5
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:42.9
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:42.3
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:39.9
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:42.9
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:37.8
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.1
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:42.2
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.6
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.3
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.2
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.9
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.6
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.6
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.5
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:33.1
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:39.5
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:44.5
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.4
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.6
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:40.7
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:42.3
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:43.5
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.7
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.3
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:36.6
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:42.1
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:44.1
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.3
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:37.1
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:42.8
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:40.9
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:43.7
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:42.3
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:40.1
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.7
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:37.5
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.2
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:40.6
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.9
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:43.2
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:43.2
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:42.7
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:43.4
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:42.0
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.3
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:34.8
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.4
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.4
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:40.2
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:39.7
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.4
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:40.6
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:43.9
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:43.5
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.4
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:36.7
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:39.6
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.7
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.3
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.5
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:42.2
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:43.3
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.7
+Objects:
+
+Do not detect any person!
+person_sort_dets.size(): 0
+[2J[1;1H
+FPS:41.6
+Objects:
+
+person: 31%
+count 5
+pTrackerRetSize: 0
+person_sort_dets.size(): 1
+person: -1
+[2J[1;1H
+FPS:42.0
+Objects:
+
+person: 36%
+pTrackerRetSize: 0
+person_sort_dets.size(): 1
+person: -1
+[2J[1;1H
+FPS:39.6
+Objects:
+
+person: 38%
+pTrackerRetSize: 0
+person_sort_dets.size(): 1
+person: -1
+[2J[1;1H
+FPS:39.8
+Objects:
+
+person: 39%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 5
+[2J[1;1H
+FPS:41.6
+Objects:
+
+person: 40%
+person: 37%
+count 6
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: -1
+[2J[1;1H
+FPS:42.9
+Objects:
+
+person: 51%
+person: 46%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: -1
+[2J[1;1H
+FPS:42.4
+Objects:
+
+person: 68%
+person: 53%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: -1
+[2J[1;1H
+FPS:42.0
+Objects:
+
+person: 74%
+person: 58%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 6
+person: 5
+[2J[1;1H
+FPS:41.6
+Objects:
+
+person: 76%
+person: 59%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 6
+person: 5
+[2J[1;1H
+FPS:44.0
+Objects:
+
+person: 78%
+person: 57%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 6
+person: 5
+[2J[1;1H
+FPS:41.8
+Objects:
+
+person: 77%
+person: 63%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 6
+person: 5
+[2J[1;1H
+FPS:42.9
+Objects:
+
+person: 76%
+person: 67%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 6
+person: 5
+[2J[1;1H
+FPS:41.5
+Objects:
+
+person: 70%
+person: 68%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 6
+person: 5
+[2J[1;1H
+FPS:40.0
+Objects:
+
+person: 69%
+person: 65%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 6
+person: 5
+[2J[1;1H
+FPS:41.4
+Objects:
+
+person: 70%
+person: 61%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 6
+person: 5
+[2J[1;1H
+FPS:42.8
+Objects:
+
+person: 70%
+person: 62%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: 5
+[2J[1;1H
+FPS:42.0
+Objects:
+
+person: 70%
+person: 57%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: 5
+[2J[1;1H
+FPS:41.8
+Objects:
+
+person: 69%
+person: 58%
+count 7
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: -1
+[2J[1;1H
+FPS:39.5
+Objects:
+
+person: 69%
+person: 59%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: -1
+[2J[1;1H
+FPS:43.5
+Objects:
+
+person: 68%
+person: 60%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: -1
+[2J[1;1H
+FPS:41.2
+Objects:
+
+person: 68%
+person: 58%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:41.9
+Objects:
+
+person: 69%
+person: 57%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:40.3
+Objects:
+
+person: 69%
+person: 58%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:40.4
+Objects:
+
+person: 67%
+person: 63%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:43.5
+Objects:
+
+person: 69%
+person: 65%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:41.6
+Objects:
+
+person: 69%
+person: 64%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:41.1
+Objects:
+
+person: 69%
+person: 65%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:43.1
+Objects:
+
+person: 69%
+person: 65%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:41.0
+Objects:
+
+person: 70%
+person: 65%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:41.0
+Objects:
+
+person: 68%
+person: 65%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:37.9
+Objects:
+
+person: 66%
+person: 64%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:42.4
+Objects:
+
+person: 66%
+person: 61%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:41.3
+Objects:
+
+person: 65%
+person: 59%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: 5
+[2J[1;1H
+FPS:41.6
+Objects:
+
+person: 63%
+person: 62%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: -1
+[2J[1;1H
+FPS:36.8
+Objects:
+
+person: 65%
+person: 60%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: -1
+[2J[1;1H
+FPS:41.2
+Objects:
+
+person: 68%
+person: 60%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:39.2
+Objects:
+
+person: 69%
+person: 61%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:42.6
+Objects:
+
+person: 70%
+person: 61%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:43.6
+Objects:
+
+person: 72%
+person: 61%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:41.6
+Objects:
+
+person: 73%
+person: 61%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:41.9
+Objects:
+
+person: 74%
+person: 60%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:40.7
+Objects:
+
+person: 74%
+person: 60%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:41.9
+Objects:
+
+person: 74%
+person: 61%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:41.8
+Objects:
+
+person: 73%
+person: 62%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:37.2
+Objects:
+
+person: 70%
+person: 62%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:39.7
+Objects:
+
+person: 63%
+person: 63%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:39.6
+Objects:
+
+person: 65%
+person: 60%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:42.8
+Objects:
+
+person: 65%
+person: 58%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:41.8
+Objects:
+
+person: 63%
+person: 61%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:40.0
+Objects:
+
+person: 62%
+person: 60%
+person: 34%
+count 8
+pTrackerRetSize: 2
+person_sort_dets.size(): 3
+person: 7
+person: 5
+person: -1
+[2J[1;1H
+FPS:42.0
+Objects:
+
+person: 61%
+person: 59%
+person: 35%
+pTrackerRetSize: 2
+person_sort_dets.size(): 3
+person: 7
+person: 5
+person: -1
+[2J[1;1H
+FPS:41.9
+Objects:
+
+person: 62%
+person: 56%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:41.3
+Objects:
+
+person: 62%
+person: 56%
+person: 35%
+pTrackerRetSize: 2
+person_sort_dets.size(): 3
+person: 7
+person: 5
+person: -1
+[2J[1;1H
+FPS:41.3
+Objects:
+
+person: 62%
+person: 54%
+person: 30%
+pTrackerRetSize: 2
+person_sort_dets.size(): 3
+person: 7
+person: 5
+person: -1
+[2J[1;1H
+FPS:39.4
+Objects:
+
+person: 63%
+person: 51%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:40.6
+Objects:
+
+person: 64%
+person: 44%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 7
+person: 5
+[2J[1;1H
+FPS:41.0
+Objects:
+
+person: 65%
+person: 50%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: 5
+[2J[1;1H
+FPS:43.1
+Objects:
+
+person: 65%
+person: 49%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: 5
+[2J[1;1H
+FPS:41.4
+Objects:
+
+person: 64%
+person: 52%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: 5
+[2J[1;1H
+FPS:41.1
+Objects:
+
+person: 63%
+person: 59%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: 5
+[2J[1;1H
+FPS:40.2
+Objects:
+
+person: 65%
+person: 63%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: 5
+[2J[1;1H
+FPS:43.9
+Objects:
+
+person: 70%
+person: 62%
+count 9
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: -1
+[2J[1;1H
+FPS:41.1
+Objects:
+
+person: 71%
+person: 62%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: -1
+[2J[1;1H
+FPS:41.4
+Objects:
+
+person: 70%
+person: 61%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: -1
+[2J[1;1H
+FPS:40.3
+Objects:
+
+person: 68%
+person: 64%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:38.2
+Objects:
+
+person: 69%
+person: 69%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:41.6
+Objects:
+
+person: 72%
+person: 67%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:40.4
+Objects:
+
+person: 74%
+person: 65%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:40.7
+Objects:
+
+person: 70%
+person: 63%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:41.5
+Objects:
+
+person: 64%
+person: 63%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:41.6
+Objects:
+
+person: 67%
+person: 64%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:40.5
+Objects:
+
+person: 69%
+person: 64%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:44.7
+Objects:
+
+person: 71%
+person: 65%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:40.9
+Objects:
+
+person: 71%
+person: 65%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:41.2
+Objects:
+
+person: 70%
+person: 65%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:36.6
+Objects:
+
+person: 69%
+person: 65%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:42.7
+Objects:
+
+person: 69%
+person: 66%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:40.4
+Objects:
+
+person: 68%
+person: 65%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:41.3
+Objects:
+
+person: 67%
+person: 64%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:40.3
+Objects:
+
+person: 65%
+person: 62%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:41.9
+Objects:
+
+person: 63%
+person: 56%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:44.1
+Objects:
+
+person: 63%
+person: 56%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:41.3
+Objects:
+
+person: 64%
+person: 61%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:41.0
+Objects:
+
+person: 63%
+person: 61%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:39.7
+Objects:
+
+person: 63%
+person: 59%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:37.3
+Objects:
+
+person: 63%
+person: 62%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:43.6
+Objects:
+
+person: 64%
+person: 63%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:40.9
+Objects:
+
+person: 64%
+person: 63%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:42.0
+Objects:
+
+person: 65%
+person: 60%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:41.0
+Objects:
+
+person: 67%
+person: 56%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:41.5
+Objects:
+
+person: 68%
+person: 55%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:40.7
+Objects:
+
+person: 68%
+person: 55%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:41.3
+Objects:
+
+person: 66%
+person: 57%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:41.3
+Objects:
+
+person: 66%
+person: 57%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 9
+person: 5
+[2J[1;1H
+FPS:38.7
+Objects:
+
+person: 65%
+person: 52%
+person: 44%
+count 10
+pTrackerRetSize: 2
+person_sort_dets.size(): 3
+person: 9
+person: 5
+person: -1
+[2J[1;1H
+FPS:35.9
+Objects:
+
+person: 66%
+person: 51%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: -1
+[2J[1;1H
+FPS:42.5
+Objects:
+
+person: 67%
+person: 54%
+person: 39%
+pTrackerRetSize: 1
+person_sort_dets.size(): 3
+person: 5
+person: -1
+person: -1
+[2J[1;1H
+FPS:38.6
+Objects:
+
+person: 68%
+person: 55%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:42.4
+Objects:
+
+person: 67%
+person: 60%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:41.5
+Objects:
+
+person: 67%
+person: 65%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:41.3
+Objects:
+
+person: 68%
+person: 67%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:41.7
+Objects:
+
+person: 68%
+person: 65%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:42.0
+Objects:
+
+person: 69%
+person: 64%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:41.1
+Objects:
+
+person: 68%
+person: 65%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:40.6
+Objects:
+
+person: 68%
+person: 67%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:34.5
+Objects:
+
+person: 69%
+person: 69%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:42.9
+Objects:
+
+person: 70%
+person: 70%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:41.1
+Objects:
+
+person: 71%
+person: 70%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:40.8
+Objects:
+
+person: 73%
+person: 70%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:39.2
+Objects:
+
+person: 74%
+person: 70%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:43.6
+Objects:
+
+person: 76%
+person: 69%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:42.4
+Objects:
+
+person: 77%
+person: 66%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:42.8
+Objects:
+
+person: 78%
+person: 65%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:41.2
+Objects:
+
+person: 77%
+person: 64%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:41.6
+Objects:
+
+person: 75%
+person: 64%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:40.9
+Objects:
+
+person: 72%
+person: 63%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:39.0
+Objects:
+
+person: 70%
+person: 60%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:42.0
+Objects:
+
+person: 67%
+person: 61%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:43.0
+Objects:
+
+person: 63%
+person: 60%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:41.0
+Objects:
+
+person: 65%
+person: 56%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:40.3
+Objects:
+
+person: 68%
+person: 47%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:43.9
+Objects:
+
+person: 75%
+person: 36%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 10
+person: 5
+[2J[1;1H
+FPS:40.6
+Objects:
+
+person: 74%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 5
+[2J[1;1H
+FPS:41.7
+Objects:
+
+person: 73%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 5
+[2J[1;1H
+FPS:42.0
+Objects:
+
+person: 74%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 5
+[2J[1;1H
+FPS:40.8
+Objects:
+
+person: 76%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 5
+[2J[1;1H
+FPS:38.5
+Objects:
+
+person: 78%
+person: 30%
+count 11
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: -1
+[2J[1;1H
+FPS:41.3
+Objects:
+
+person: 77%
+person: 31%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: -1
+[2J[1;1H
+FPS:42.0
+Objects:
+
+person: 72%
+person: 35%
+count 12
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 5
+person: -1
+[2J[1;1H
+FPS:41.2
+Objects:
+
+person: 73%
+pTrackerRetSize: 0
+person_sort_dets.size(): 1
+person: -1
+[2J[1;1H
+FPS:41.9
+Objects:
+
+person: 71%
+pTrackerRetSize: 0
+person_sort_dets.size(): 1
+person: -1
+[2J[1;1H
+FPS:40.8
+Objects:
+
+person: 73%
+person: 47%
+count 13
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 12
+person: -1
+[2J[1;1H
+FPS:39.7
+Objects:
+
+person: 73%
+person: 52%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 12
+person: -1
+[2J[1;1H
+FPS:42.2
+Objects:
+
+person: 68%
+person: 63%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 12
+person: -1
+[2J[1;1H
+FPS:41.1
+Objects:
+
+person: 68%
+person: 65%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 13
+person: 12
+[2J[1;1H
+FPS:43.3
+Objects:
+
+person: 69%
+person: 64%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 13
+person: 12
+[2J[1;1H
+FPS:37.8
+Objects:
+
+person: 70%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 12
+[2J[1;1H
+FPS:41.2
+Objects:
+
+person: 76%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 12
+[2J[1;1H
+FPS:41.6
+Objects:
+
+person: 78%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 12
+[2J[1;1H
+FPS:43.7
+Objects:
+
+person: 79%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 12
+[2J[1;1H
+FPS:40.8
+Objects:
+
+person: 77%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 12
+[2J[1;1H
+FPS:41.3
+Objects:
+
+person: 76%
+person: 36%
+count 14
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 12
+person: -1
+[2J[1;1H
+FPS:41.0
+Objects:
+
+person: 79%
+person: 34%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 12
+person: -1
+[2J[1;1H
+FPS:41.7
+Objects:
+
+person: 80%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 12
+[2J[1;1H
+FPS:40.3
+Objects:
+
+person: 80%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 12
+[2J[1;1H
+FPS:42.0
+Objects:
+
+person: 80%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 12
+[2J[1;1H
+FPS:41.0
+Objects:
+
+person: 79%
+person: 32%
+count 15
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 12
+person: -1
+[2J[1;1H
+FPS:40.8
+Objects:
+
+person: 78%
+person: 38%
+person: 35%
+count 16
+pTrackerRetSize: 1
+person_sort_dets.size(): 3
+person: 12
+person: -1
+person: -1
+[2J[1;1H
+FPS:41.4
+Objects:
+
+person: 78%
+person: 41%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 12
+person: -1
+[2J[1;1H
+FPS:40.9
+Objects:
+
+person: 77%
+person: 42%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:43.7
+Objects:
+
+person: 79%
+person: 44%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:40.7
+Objects:
+
+person: 79%
+person: 42%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.0
+Objects:
+
+person: 78%
+person: 39%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.9
+Objects:
+
+person: 78%
+person: 39%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.4
+Objects:
+
+person: 78%
+person: 40%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.2
+Objects:
+
+person: 77%
+person: 45%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:40.1
+Objects:
+
+person: 74%
+person: 48%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:38.4
+Objects:
+
+person: 71%
+person: 50%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:36.8
+Objects:
+
+person: 68%
+person: 51%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.9
+Objects:
+
+person: 66%
+person: 48%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:42.8
+Objects:
+
+person: 69%
+person: 45%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:40.9
+Objects:
+
+person: 72%
+person: 42%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:42.0
+Objects:
+
+person: 75%
+person: 40%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:43.6
+Objects:
+
+person: 78%
+person: 41%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:40.9
+Objects:
+
+person: 79%
+person: 41%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:39.9
+Objects:
+
+person: 79%
+person: 41%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:37.7
+Objects:
+
+person: 78%
+person: 43%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.8
+Objects:
+
+person: 79%
+person: 47%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:38.5
+Objects:
+
+person: 79%
+person: 50%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:38.5
+Objects:
+
+person: 79%
+person: 47%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:38.3
+Objects:
+
+person: 79%
+person: 47%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:38.9
+Objects:
+
+person: 78%
+person: 49%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:38.2
+Objects:
+
+person: 78%
+person: 53%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:38.6
+Objects:
+
+person: 78%
+person: 55%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:38.9
+Objects:
+
+person: 78%
+person: 57%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:39.8
+Objects:
+
+person: 78%
+person: 59%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:37.8
+Objects:
+
+person: 78%
+person: 62%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:40.2
+Objects:
+
+person: 78%
+person: 62%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:43.0
+Objects:
+
+person: 78%
+person: 63%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.2
+Objects:
+
+person: 77%
+person: 60%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:42.0
+Objects:
+
+person: 76%
+person: 61%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.4
+Objects:
+
+person: 76%
+person: 58%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.0
+Objects:
+
+person: 76%
+person: 58%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:42.8
+Objects:
+
+person: 77%
+person: 57%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:42.8
+Objects:
+
+person: 77%
+person: 54%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:40.9
+Objects:
+
+person: 76%
+person: 52%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.9
+Objects:
+
+person: 76%
+person: 47%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:39.1
+Objects:
+
+person: 75%
+person: 47%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.1
+Objects:
+
+person: 75%
+person: 51%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.7
+Objects:
+
+person: 74%
+person: 53%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.9
+Objects:
+
+person: 72%
+person: 55%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:40.6
+Objects:
+
+person: 71%
+person: 56%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:42.1
+Objects:
+
+person: 69%
+person: 57%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.9
+Objects:
+
+person: 67%
+person: 57%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.1
+Objects:
+
+person: 67%
+person: 60%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:43.8
+Objects:
+
+person: 67%
+person: 61%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.2
+Objects:
+
+person: 70%
+person: 62%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:39.1
+Objects:
+
+person: 75%
+person: 62%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:40.7
+Objects:
+
+person: 79%
+person: 62%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.1
+Objects:
+
+person: 82%
+person: 62%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.1
+Objects:
+
+person: 84%
+person: 60%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.8
+Objects:
+
+person: 84%
+person: 58%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.1
+Objects:
+
+person: 83%
+person: 57%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:40.2
+Objects:
+
+person: 82%
+person: 57%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.3
+Objects:
+
+person: 81%
+person: 57%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.4
+Objects:
+
+person: 81%
+person: 56%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:40.9
+Objects:
+
+person: 80%
+person: 56%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:40.9
+Objects:
+
+person: 80%
+person: 57%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:39.8
+Objects:
+
+person: 80%
+person: 57%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:40.9
+Objects:
+
+person: 81%
+person: 58%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.0
+Objects:
+
+person: 81%
+person: 56%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.3
+Objects:
+
+person: 82%
+person: 57%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:40.7
+Objects:
+
+person: 82%
+person: 58%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.6
+Objects:
+
+person: 81%
+person: 63%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:40.9
+Objects:
+
+person: 80%
+person: 64%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:40.5
+Objects:
+
+person: 79%
+person: 63%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.6
+Objects:
+
+person: 79%
+person: 59%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.0
+Objects:
+
+person: 79%
+person: 57%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:38.3
+Objects:
+
+person: 79%
+person: 56%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.4
+Objects:
+
+person: 77%
+person: 54%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.5
+Objects:
+
+person: 74%
+person: 51%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.0
+Objects:
+
+person: 73%
+person: 49%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:37.5
+Objects:
+
+person: 72%
+person: 45%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:40.9
+Objects:
+
+person: 72%
+person: 45%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:40.4
+Objects:
+
+person: 68%
+person: 49%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.7
+Objects:
+
+person: 65%
+person: 55%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.2
+Objects:
+
+person: 68%
+person: 54%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:38.8
+Objects:
+
+person: 69%
+person: 53%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:39.4
+Objects:
+
+person: 67%
+person: 48%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:40.2
+Objects:
+
+person: 65%
+person: 51%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:40.6
+Objects:
+
+person: 65%
+person: 53%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.1
+Objects:
+
+person: 64%
+person: 55%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.4
+Objects:
+
+person: 64%
+person: 57%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.6
+Objects:
+
+person: 63%
+person: 55%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:41.3
+Objects:
+
+person: 57%
+person: 51%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 15
+person: 12
+[2J[1;1H
+FPS:42.1
+Objects:
+
+person: 49%
+person: 41%
+person: 35%
+count 17
+pTrackerRetSize: 2
+person_sort_dets.size(): 3
+person: 15
+person: 12
+person: -1
+[2J[1;1H
+FPS:41.2
+Objects:
+
+person: 53%
+person: 46%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 12
+person: -1
+[2J[1;1H
+FPS:41.8
+Objects:
+
+person: 57%
+person: 48%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 12
+person: -1
+[2J[1;1H
+FPS:39.3
+Objects:
+
+person: 61%
+person: 46%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:39.9
+Objects:
+
+person: 65%
+person: 46%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:42.3
+Objects:
+
+person: 65%
+person: 48%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:40.6
+Objects:
+
+person: 64%
+person: 51%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:38.8
+Objects:
+
+person: 64%
+person: 54%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:42.2
+Objects:
+
+person: 64%
+person: 54%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:40.5
+Objects:
+
+person: 64%
+person: 56%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:41.3
+Objects:
+
+person: 63%
+person: 56%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:41.3
+Objects:
+
+person: 63%
+person: 58%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:39.7
+Objects:
+
+person: 64%
+person: 57%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:39.7
+Objects:
+
+person: 65%
+person: 55%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:41.1
+Objects:
+
+person: 67%
+person: 54%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:42.1
+Objects:
+
+person: 70%
+person: 53%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:41.5
+Objects:
+
+person: 71%
+person: 52%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:41.6
+Objects:
+
+person: 72%
+person: 55%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:42.0
+Objects:
+
+person: 74%
+person: 59%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:41.5
+Objects:
+
+person: 75%
+person: 65%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:41.1
+Objects:
+
+person: 74%
+person: 65%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:42.5
+Objects:
+
+person: 75%
+person: 64%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:41.0
+Objects:
+
+person: 73%
+person: 63%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:41.0
+Objects:
+
+person: 74%
+person: 62%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:38.9
+Objects:
+
+person: 74%
+person: 59%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:40.5
+Objects:
+
+person: 74%
+person: 56%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:42.7
+Objects:
+
+person: 74%
+person: 55%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:41.1
+Objects:
+
+person: 75%
+person: 57%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:41.1
+Objects:
+
+person: 75%
+person: 58%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:41.5
+Objects:
+
+person: 75%
+person: 58%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:41.5
+Objects:
+
+person: 73%
+person: 59%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:40.8
+Objects:
+
+person: 70%
+person: 59%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:40.9
+Objects:
+
+person: 66%
+person: 55%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:41.3
+Objects:
+
+person: 56%
+person: 51%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:38.2
+Objects:
+
+person: 56%
+person: 41%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 17
+person: 12
+[2J[1;1H
+FPS:42.3
+Objects:
+
+person: 63%
+person: 34%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 12
+person: 12
+[2J[1;1H
+FPS:41.5
+Objects:
+
+person: 68%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 12
+[2J[1;1H
+FPS:41.3
+Objects:
+
+person: 70%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 12
+[2J[1;1H
+FPS:41.6
+Objects:
+
+person: 71%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 12
+[2J[1;1H
+FPS:41.5
+Objects:
+
+person: 72%
+person: 33%
+count 18
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 12
+person: -1
+[2J[1;1H
+FPS:41.2
+Objects:
+
+person: 73%
+person: 46%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 12
+person: -1
+[2J[1;1H
+FPS:41.7
+Objects:
+
+person: 73%
+person: 47%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 12
+person: -1
+[2J[1;1H
+FPS:41.1
+Objects:
+
+person: 73%
+person: 44%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 18
+person: 12
+[2J[1;1H
+FPS:41.3
+Objects:
+
+person: 74%
+person: 37%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 18
+person: 12
+[2J[1;1H
+FPS:38.0
+Objects:
+
+person: 76%
+person: 37%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 18
+person: 12
+[2J[1;1H
+FPS:39.8
+Objects:
+
+person: 77%
+person: 38%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 18
+person: 12
+[2J[1;1H
+FPS:40.6
+Objects:
+
+person: 76%
+person: 44%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 18
+person: 12
+[2J[1;1H
+FPS:41.9
+Objects:
+
+person: 74%
+person: 50%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 18
+person: 12
+[2J[1;1H
+FPS:41.7
+Objects:
+
+person: 75%
+person: 55%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 18
+person: 12
+[2J[1;1H
+FPS:41.1
+Objects:
+
+person: 77%
+person: 58%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 18
+person: 12
+[2J[1;1H
+FPS:39.1
+Objects:
+
+person: 78%
+person: 59%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 18
+person: 12
+[2J[1;1H
+FPS:36.6
+Objects:
+
+person: 78%
+person: 58%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 18
+person: 12
+[2J[1;1H
+FPS:43.9
+Objects:
+
+person: 77%
+person: 56%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 18
+person: 12
+[2J[1;1H
+FPS:40.3
+Objects:
+
+person: 77%
+person: 52%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 18
+person: 12
+[2J[1;1H
+FPS:34.7
+Objects:
+
+person: 77%
+person: 50%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 18
+person: 12
+[2J[1;1H
+FPS:40.0
+Objects:
+
+person: 79%
+person: 48%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 18
+person: 12
+[2J[1;1H
+FPS:40.2
+Objects:
+
+person: 80%
+person: 48%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 18
+person: 12
+[2J[1;1H
+FPS:41.9
+Objects:
+
+person: 81%
+person: 46%
+pTrackerRetSize: 2
+person_sort_dets.size(): 2
+person: 18
+person: 12
+[2J[1;1H
+FPS:40.4
+Objects:
+
+person: 81%
+person: 38%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 12
+person: 12
+[2J[1;1H
+FPS:40.9
+Objects:
+
+person: 81%
+person: 33%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 12
+person: 12
+[2J[1;1H
+FPS:41.6
+Objects:
+
+person: 80%
+pTrackerRetSize: 1
+person_sort_dets.size(): 1
+person: 12
+[2J[1;1H
+FPS:40.3
+Objects:
+
+person: 79%
+person: 30%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 12
+person: 12
+[2J[1;1H
+FPS:42.5
+Objects:
+
+person: 77%
+person: 33%
+count 19
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 12
+person: -1
+[2J[1;1H
+FPS:41.5
+Objects:
+
+person: 75%
+person: 33%
+pTrackerRetSize: 1
+person_sort_dets.size(): 2
+person: 12
+pers

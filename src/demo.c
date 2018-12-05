@@ -6,6 +6,7 @@
 #include "parser.h"
 #include "box.h"
 #include "image.h"
+#include "sort.h"
 #include "demo.h"
 #include <sys/time.h>
 
@@ -131,7 +132,8 @@ void *detect_in_thread(void *ptr)
     printf("\nFPS:%.1f\n",fps);
     printf("Objects:\n\n");
     image display = buff[(buff_index+2) % 3];
-    draw_detections(display, dets, nboxes, demo_thresh, demo_names, demo_alphabet, demo_classes);
+    //draw_detections(display, dets, nboxes, demo_thresh, demo_names, demo_alphabet, demo_classes);
+    draw_detections_with_sort_id(display, dets, nboxes, demo_thresh, demo_names, demo_alphabet, demo_classes);
     free_detections(dets, nboxes);
 
     demo_index = (demo_index + 1)%demo_frame;
@@ -186,8 +188,17 @@ void *detect_loop(void *ptr)
     }
 }
 
+// when get SIGINT (interrupt) then doing
+void intHandler(int dummy)
+{
+    sort_cleanUp();
+    exit(0);
+}
+
 void demo(char *cfgfile, char *weightfile, float thresh, int cam_index, const char *filename, char **names, int classes, int delay, char *prefix, int avg_frames, float hier, int w, int h, int frames, int fullscreen)
 {
+    signal(2, intHandler);
+
     //demo_frame = avg_frames;
     image **alphabet = load_alphabet();
     demo_names = names;
