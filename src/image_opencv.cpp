@@ -78,13 +78,16 @@ void *open_video_stream(const char *f, int c, int w, int h, int fps)
     return (void *) cap;
 }
 
+// add resize at 2018/12/06
 image get_image_from_stream(void *p)
 {
     VideoCapture *cap = (VideoCapture *)p;
-    Mat m;
+    Mat m, frame;
     *cap >> m;
     if(m.empty()) return make_empty_image(0,0,0);
-    return mat_to_image(m);
+    resize(m, frame, Size(800, 600));
+    return mat_to_image(frame);
+    //return mat_to_image(m);
 }
 
 image load_image_cv(char *filename, int channels)

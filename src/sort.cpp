@@ -1,14 +1,9 @@
 #include "sort.h"
-#include <stdlib.h>
-#include <stdio.h>
-#include <sys/time.h>
-
-
 
 #include <iostream>
 #include <vector>
-
 #include <Python.h>
+#include "DAI_push.h"
 
 #define PERSON_ONLY 1
 #define SORT_FREQ 1 // sort update frequency
@@ -30,16 +25,20 @@ static float **last_probs;
 static box *last_boxes;
 static int *last_sort_ids;
 static int last_sort_ct = 0;
+
+// update by sort_update()
 static std::vector<person_sort_det> person_sort_dets;
 
 static int first_called = 1;
 
-PyObject *pName, *pModule, *pDict, *pClass, *pTracker, *pTrackerRet, *pInstance;
+static PyObject *pName, *pModule, *pDict, *pClass, *pTracker, *pTrackerRet, *pInstance;
 
 void draw_detections_with_sort_id(image im, detection *dets, int num, float thresh, char **names, image **alphabet, int classes)
 {
     int person_num = sort_update(im, dets, num, thresh, names, alphabet, classes);
-    printf("person_sort_dets.size(): %d\n", person_num);
+    //printf("person_sort_dets.size(): %d\n", person_num);
+
+    iot_talk_start(im, person_sort_dets, person_num);
 
     for(int i = 0; i < person_num; ++i)
     {
@@ -154,7 +153,10 @@ void draw_detections_with_sort(image im, detection *dets, int num, float thresh,
 
 void sort_init()
 {
-    Py_Initialize();
+    if(!Py_IsInitialized())
+    {
+        Py_Initialize();
+    }
 
     pModule = PyImport_ImportModule("sort");
     CHECK_PYTHON_NULL(pModule)
@@ -226,7 +228,7 @@ int sort_update(image im, detection *dets, int num, float thresh, char **names, 
             if(bot > im.h-1) bot = im.h-1;
 
             // skip too small box
-            float filter_small_scale = 10;
+            float filter_small_scale = 20;
             if(filter_small_scale!=0 && ((right-left)<im.h/filter_small_scale || (bot-top)<im.h/filter_small_scale))
                 continue;
 
@@ -259,6 +261,8 @@ int sort_update(image im, detection *dets, int num, float thresh, char **names, 
         Py_DECREF(pDetections);
         return 0;
     }
+
+    printf("person_num: %d\n", person_num);
 
     // get sort.update return
     pTrackerRet = PyObject_CallMethod(pTracker, "update", "O", pDetections);
@@ -293,6 +297,7 @@ int sort_update(image im, detection *dets, int num, float thresh, char **names, 
    	Py_DECREF(pDetections);
 
     return pTrackerRetSize;
+    //return person_num;
 }
 
 void sort_cleanUp()
